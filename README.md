@@ -1,7 +1,7 @@
 # multiple_polyline
 
 A new Flutter application.
-![alt text](https://github.com/shriyapandya/flutter_multiple_routes/blob/master/Map.jpg?raw=true)
+![alt text](https://github.com/shriyapandya/flutter_multiple_routes/blob/master/map_1.jpg?raw=true)
 
 ## Getting Started
 
